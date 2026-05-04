@@ -1,0 +1,16 @@
+[21:11:54] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.5.0-SNAPSHOT (git-ad8de436-b594)...
+[21:11:54] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[21:11:55] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[21:11:55] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[21:11:55] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[21:11:55] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin moderation 1.0.0 by Marcel
+[21:11:56] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[21:11:56] [ModerationPlugin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [ModerationPlugin] Plugin wurde geladen!
+[21:11:56] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[21:11:56] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (2,59s)!
+[21:12:00] [Velocity - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: §cBenutzung: /tempmute <Spieler> <Zeit>
+[21:12:00] [Velocity - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: §7Beispiele: 10m, 2h, 1d
+[21:12:12] [Velocity - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: §cUngültiges Zeitformat. Beispiele: 10m, 2h, 1d
+[21:12:15] [Velocity - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: §cSpieler nicht gefunden.
+[21:13:39] [Shutdown thread/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[21:13:39] [Shutdown thread/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
